@@ -1,0 +1,27 @@
+{
+  "name": "spyder-dark",
+  "displayName": "spyder-dark",
+  "description": "Python-centric syntax highlighting and background theme based off Spyder Dark in the Spyder python IDE",
+  "version": "0.0.1",
+  "publisher": "Flufficalness",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FurretGoWalcc/spyder-dark.git"
+  },
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "engines": {
+    "vscode": "^1.88.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "spyder-dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/spyder-dark-color-theme.json"
+      }
+    ]
+  }
+}
