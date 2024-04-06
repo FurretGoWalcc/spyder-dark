@@ -2,7 +2,7 @@
   "name": "spyder-dark",
   "displayName": "spyder-dark",
   "description": "Python-centric syntax highlighting and background theme based off Spyder Dark in the Spyder python IDE",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "publisher": "Flufficalness",
   "repository": {
     "type": "git",
