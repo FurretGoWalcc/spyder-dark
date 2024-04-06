@@ -5,11 +5,11 @@ This Theme implements the classic Spyder IDE Dark Theme for visual studio code's
 Here is a quick snippet of code (from the [Python Docs](https://docs.python.org/3/tutorial/stdlib2.html#multi-threading)
 ).
 
-In Spyder it might something like this, depending on your settings:
-![alt text](example-spyder.png)
+In Spyder it might look something like this, depending on your settings:
+![Spyder-Example-Snippet](example-spyder.png)
 
 In VSCode it looks very similar!
-![alt text](themed-vscode.png)
+![VSCode Example Snippet](themed-vscode.png)
 
 ## More information
 
