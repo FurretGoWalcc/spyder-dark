@@ -9,6 +9,7 @@
     "url": "https://github.com/FurretGoWalcc/spyder-dark.git"
   },
   "license": "SEE LICENSE IN LICENSE.txt",
+  "icon": "spider.png",
   "engines": {
     "vscode": "^1.88.0"
   },
